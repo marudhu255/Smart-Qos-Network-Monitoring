@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Smart Network QoS Monitor
 
 Static HTML/CSS/JavaScript demo project for VS Code, GitHub, and Vercel.
@@ -45,3 +46,6 @@ git push -u origin main
 4. Leave Build Command and Install Command empty.
 5. Set Output Directory to `.`.
 6. Click Deploy. Future pushes normally trigger a redeployment.
+=======
+# Smart-Qos-Network-Monitoring
+>>>>>>> 56a92354db8321bf8cdd65bd075303fbad742969
